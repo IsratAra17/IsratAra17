@@ -1,7 +1,7 @@
 ### Hi there 👋, I am  S. M. Israt Ara
 #### Android Developer
 
-From Dhaka, Bangladesh.Computer Scince and Engineering graduate From Daffodil International University (2018-2022).
+From Dhaka, Bangladesh.Computer Science and Engineering graduate From Daffodil International University (2018-2022).
 Open for remote Job.
 
 In 2019 I started learning android. I have been working on android development since 2021.
