@@ -1,8 +1,7 @@
 ### Hi there 👋, I am  S. M. Israt Ara
 #### Android Developer
 
-
-Hi, I am Israt. An Android Developer from Dhaka, Bangladesh. Open for remote Job.
+From Dhaka, Bangladesh. Open for ###remote Job.
 
 In 2019 I started learning android. I have been working on android development since 2021.
 
