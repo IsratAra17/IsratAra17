@@ -1,14 +1,15 @@
 ### Hi there 👋, I am  S. M. Israt Ara
-#### Android Developer
+#### Mobile Application Developer (Flutter)
 
 From Dhaka, Bangladesh.Computer Science and Engineering graduate From Daffodil International University (2018-2022).
 Open for remote Job.
 
 In 2019 I started learning android. I have been working on android development since 2021.
+Currently I am exploring Flutter.
 
-Skills: Android / C / Java / C++ 
+Skills: Flutter/Dart/Android / C / Java / C++ 
 
-- 🌱 I’m currently learning Android, Dart, Flutter 
+- 🌱 I’m currently learning Dart, Flutter 
 - 📫 How to reach me: smisratara25@gmail.com 
 
 
