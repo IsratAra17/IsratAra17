@@ -4,7 +4,7 @@
 
 I'm a **Computer Science and Engineering** graduate from **Daffodil International University** (2018–2022) with a strong passion for delivering high-quality, secure, and reliable software.
 
-Currently working as a **Software Quality Assurance Engineer** at **Evident BD Ltd** (November 2023 – Present), where I perform comprehensive manual, API, automation, and security testing across web, mobile (iOS & Android), and desktop platforms. I thrive on finding critical defects early, ensuring seamless user experiences, and strengthening application security.
+Currently working as a **Software Quality Assurance Engineer** at **Evident BD Ltd** (August 2023 – Present), where I perform comprehensive manual, API, automation, and security testing across web, mobile (iOS & Android), and desktop platforms. I thrive on finding critical defects early, ensuring seamless user experiences, and strengthening application security.
 
 Additionally, my background in Android development (learning since 2019, projects since 2021) and Flutter development (2021–2022) enables me to collaborate effectively with development teams and understand application workflows deeply.
 
